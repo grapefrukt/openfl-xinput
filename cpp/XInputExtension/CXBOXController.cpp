@@ -1,8 +1,7 @@
-
 #define WIN32_LEAN_AND_MEAN
 #define IMPLEMENT_API
 #include <Windows.h>
-#include <Xinput.h>
+#include <xinput.h>
 #pragma comment(lib, "XInput.lib")
 #include <hx\CFFI.h>
 #include <stdio.h>
